@@ -10,7 +10,7 @@
 2. 하 -> 중 -> 상 순서로 문제 풀이 진행
 3. 코어 타임에는 각자 맡은 문제를 1개씩 설명하는 시간을 가짐
  
-# [Wiki](https://github.com/KraftonJungle4th/BreadcrumbsClassroom4_Week03_Team4_StudyNotes/wiki)
+# [Wiki](https://github.com/KraftonJungle4th/Classroom4_Week03_Team4_StudyNotes/wiki)
 1. 구성원들이 매일 진행하는 코어 타임의 진행 과정을 기록
 2. 코어 타임의 진행 과정은 네이버 클로바노트를 활용하여 녹음 후 AI 요약 결과를 검토 후 업로드
 3. 코어 타임은 매일 오후 8시부터 시작
